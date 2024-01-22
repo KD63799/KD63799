@@ -19,6 +19,9 @@ Node.js
 🌐 Current Project
 Je travaille actuellement sur un projet excitant qui met en pratique mes compétences nouvellement acquises. Restez à l'écoute pour des mises à jour régulières sur mon GitHub !
 
+📞 Contact
+N'hésitez pas à me contacter ! Que vous souhaitiez discuter d'un projet, partager des idées, ou simplement échanger, vous pouvez me joindre à aninach.beg@gmail.com ou me connecter sur LinkedIn.
+
 ------------------------------------------------------------------------------------------------
 
 👨‍💻 About Me
@@ -41,6 +44,11 @@ React
 Node.js
 🌐 Current Project
 In the heart of an exhilarating project, I'm shaping the future with my newly forged skills. Stay tuned for flashes of genius on my GitHub!
+
+📞 Contact
+Feel free to reach out! Whether you want to discuss a project, share ideas, or just chat, you can contact me at aninach.beg@gmail.com or connect on LinkedIn.
+
+
 
 
 # KD6-3.799
