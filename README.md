@@ -1,3 +1,9 @@
+
+[![Build Status](https://travis-ci.org/votre-nom-utilisateur/votre-projet.svg?branch=master)](https://travis-ci.org/KD63799/KD6-3.799)
+
+
+
+
 👨‍💻 **About Me**
 
 Salut à tous ! Je suis Amir NINACH, en pleine formation pour devenir Développeur Web et Mobile chez Simplon. Ancien cadre commercial, je me suis lancé dans l'informatique pour donner vie à ma passion du code.
