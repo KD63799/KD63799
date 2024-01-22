@@ -47,8 +47,3 @@ In the heart of an exhilarating project, I'm shaping the future with my newly fo
 
 📞 Contact
 Feel free to reach out! Whether you want to discuss a project, share ideas, or just chat, you can contact me at aninach.beg@gmail.com or connect on LinkedIn.
-
-
-
-
-# KD6-3.799
