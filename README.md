@@ -1,5 +1,5 @@
 
-👨‍💻 **About Me**
+👨‍💻 **A propos de moi**
 
 Salut à tous ! Je suis Amir NINACH, en pleine formation pour devenir Développeur Web et Mobile chez Simplon. Ancien cadre commercial, je me suis lancé dans l'informatique pour donner vie à ma passion du code.
 
