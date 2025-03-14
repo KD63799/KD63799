@@ -57,7 +57,7 @@ Let's connect! You can reach me on Discord: <strong>.villasenor</strong>.
 <h3 align="left">👩‍💻 À propos de moi</h3>
 
 <p align="left">
-Salut ! Je suis KD63799, un <strong>Concepteur Développeur d'Applications</strong>strong> passionné, spécialisé dans les technologies web et mobiles. Actuellement en poste en tant que *Concepteur Développeur d'Applications* dans une entreprise à Marseille.<br><br>
+Salut ! Je suis KD63799, un <strong>Concepteur Développeur d'Applications</strong> passionné, spécialisé dans les technologies web et mobiles. Actuellement en poste en tant que *Concepteur Développeur d'Applications* dans une entreprise à Marseille.<br><br>
 
 📘 <strong>Parcours professionnel :</strong> Ancien Manager Commercial, je me suis reconverti en **Développeur Web** avant d'évoluer en tant que **Concepteur Développeur d'Applications**. Cette transition m'a permis de combiner stratégie et passion pour le code.<br><br>
 
