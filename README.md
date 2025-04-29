@@ -104,3 +104,5 @@ Je travaille actuellement sur des projets passionnants dans mon rôle de <strong
 Entrons en contact ! Retrouvez-moi sur Discord : <strong>.villasenor</strong>.
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/KD63799DenverCoder1)](https://git.io/streak-stats)
+
