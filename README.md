@@ -104,5 +104,4 @@ Je travaille actuellement sur des projets passionnants dans mon rôle de <strong
 Entrons en contact ! Retrouvez-moi sur Discord : <strong>.villasenor</strong>.
 </p>
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=KD6-3799&theme=travelers-theme&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=KD63799&theme=travelers-theme&mode=weekly&card_width=500)](https://git.io/streak-stats)
