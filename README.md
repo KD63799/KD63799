@@ -1,107 +1,69 @@
-<h1 align="center">Hey there 👋</h1>
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-Hello! I'm KD63799, a passionate <strong>Application Designer and Developer</strong> with a focus on web and mobile technologies. Currently working as an <strong>Application Designer and Developer</strong> in a company based in Marseille.<br><br>
-
-📘 <strong>Professional Journey:</strong> Former Sales Manager turned **Web Developer**, now thriving as an **Application Designer and Developer**. My transition to tech has allowed me to merge strategic thinking with a passion for coding.<br><br>
-
-🎮 <strong>Passions:</strong> Strategy games, sports, and cinema fuel my creativity and logical thinking.<br><br>
-
-🎯 <strong>Goal:</strong> To leverage my technical and commercial expertise in building impactful digital products that solve real-world problems.
+<h1 align="center">Hey there, I'm KD6-3.799 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Application+Designer+%26+Developer;Based+in+Marseille+%E2%98%80%EF%B8%8F;Strategy+Games+Enthusiast;Tech+Problem+Solver" alt="Typing SVG" />
 </p>
 
-<h3 align="left">🛠 Technologies & Tools</h3>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Jetpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo"  />
-</div>
-
-<h3 align="left">🌐 Current Project</h3>
-
-<p align="left">
-Currently working on exciting projects in my role as an <strong>Application Designer and Developer</strong>, focusing on innovative features and intuitive design. Stay tuned for updates and details here on GitHub!
+<p align="center">
+  <a href="https://discord.com/users/.villasenor"><img src="https://img.shields.io/badge/Discord-.villasenor-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/Location-Marseille%2C+FR-EF4135?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
-<h3 align="left">📞 Contact</h3>
+---
+
+### 👩‍💻 About Me / À propos de moi
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>🇺🇸</strong><br>
+      Former <strong>Sales Manager</strong> turned <strong>Developer</strong>. I merge strategic business thinking with clean code to build impactful digital products. 
+      <br><br>
+      🎮 Strategy games | 🏃‍♂️ Sports | 🎬 Cinema
+    </td>
+    <td width="50%" valign="top">
+      <strong>🇫🇷</strong><br>
+      Ancien <strong>Manager Commercial</strong> reconverti, je combine vision stratégique et code pour concevoir des produits numériques à fort impact.
+      <br><br>
+      🎮 Jeux de stratégie | 🏃‍♂️ Sport | 🎬 Cinéma
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Technologies & Stack
 
 <p align="left">
-Let's connect! You can reach me on Discord: <strong>.villasenor</strong>.
+  <img src="https://skillicons.dev/icons?i=ts,react,tailwindcss,swift,mysql,mongodb,bash,docker,linux,nestjs,rust&perline=6" />
 </p>
 
-<hr>
+---
 
-<h1 align="center">Salut tout le monde 👋</h1>
+### 📊 My GitHub Stats
 
-<h3 align="left">👩‍💻 À propos de moi</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KD6-3.799&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KD6-3.799&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="170" />
+</p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://git-hub-streak-stats.vercel.app?user=KD6-3.799&theme=tokyonight&mode=weekly" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+### 🌤️ Live from Marseille
 <p align="left">
-Salut ! Je suis KD63799, un <strong>Concepteur Développeur d'Applications</strong> passionné, spécialisé dans les technologies web et mobiles. Actuellement en poste en tant que *Concepteur Développeur d'Applications* dans une entreprise à Marseille.<br><br>
-
-📘 <strong>Parcours professionnel :</strong> Ancien Manager Commercial, je me suis reconverti en <strong> Développeur Web </strong> avant d'évoluer en tant que <strong> Concepteur Développeur d'Applications </strong>. Cette transition m'a permis de combiner stratégie et passion pour le code.<br><br>
-
-🎮 <strong>Passions :</strong> Les jeux de stratégie, le sport et le cinéma nourrissent mon équilibre entre créativité et logique.<br><br>
-
-🎯 <strong>Objectif :</strong> Combiner expertise technique et expérience commerciale pour concevoir des produits numériques qui répondent aux besoins réels.
+  <img src="https://wttr.in/Marseille_3ptq_lang=fr.png" alt="Météo Marseille" />
 </p>
 
-<h3 align="left">🛠 Technologies & Outils</h3>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android Jetpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="Swift logo"  />
-</div>
+### 🌐 Current Focus
+> 🚀 Currently crafting innovative mobile and web features in Marseille. Open to networking with other developers and strategy lovers!
 
-<h3 align="left">🌐 Projet en cours</h3>
-
-<p align="left">
-Je travaille actuellement sur des projets passionnants dans mon rôle de <strong>Concepteur Développeur d'Applications</strong>, en mettant l'accent sur des fonctionnalités innovantes et une expérience utilisateur intuitive. Restez connectés pour découvrir mes avancées sur GitHub !
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
-
-<h3 align="left">📞 Contact</h3>
-
-<p align="left">
-Entrons en contact ! Retrouvez-moi sur Discord : <strong>.villasenor</strong>.
-</p>
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=KD63799&theme=travelers-theme&mode=weekly&card_width=500)](https://git.io/streak-stats)
